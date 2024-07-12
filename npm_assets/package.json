@@ -6,7 +6,7 @@
     "license": "MIT",
     "dependencies": {
         "baguettebox.js": "^1.11.0",
-        "bootstrap": "^4.6.1",
+        "bootstrap": "^5.0.0",
         "html5shiv": "^3.7.3",
         "jquery": "^3.6.0",
         "justified-layout": "^3.0.0",
